@@ -145,5 +145,6 @@ a:hover{
 @media (min-height:550px){
     .content{
         height: 500px;
+        
     }
 }

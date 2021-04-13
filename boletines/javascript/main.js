@@ -20,7 +20,7 @@ links.forEach(function(link){
 
         setTimeout(function(){
 
-            location.href = "file:///C:/Users/Gaspar%20Hernandez/Documents/GitHub/gasparhdz.github.com/boletines/index.html";
+            location.href = "/";
 
         },1000);
 
